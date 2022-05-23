@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeHub5199
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning SQL
+- 🌱 
 
 
 <!---
